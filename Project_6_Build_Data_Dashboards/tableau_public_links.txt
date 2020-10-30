@@ -1,9 +1,4 @@
-LINKS:
-Dash1 https://public.tableau.com/shared/Z5N4PW5DC?:display_count=y&:origin=viz_share_link
-Dash2
-https://public.tableau.com/shared/HQD7RNK9H?:display_count=y&:origin=viz_share_link
-Dash3
-https://public.tableau.com/views/Project_6_census_16032029502210/Story1?:language=en&:display_count=y&:origin=viz_share_link
+LINK
  
 website address
 https://public.tableau.com/profile/frida.rode#!/vizhome/Project_6_census_16032029502210/Story1
